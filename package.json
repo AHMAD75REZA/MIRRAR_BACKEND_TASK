@@ -1,0 +1,20 @@
+{
+  "name": "mirrar_backend_task",
+  "version": "1.0.0",
+  "description": "Mirrar Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "author": "MD AHMAD REZA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jest": "^29.7.0",
+    "mongoose": "^8.0.4",
+    "supertest": "^6.3.3"
+  }
+}
